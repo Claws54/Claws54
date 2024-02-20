@@ -1,6 +1,6 @@
 # Hello 👋
 ## About me
-This is the github account of Charlotte Lawson. I am a student of *Digital Cultures and Media* at **Newcastle University**.
+This is the github account of Charlotte Lawson. I am a student of *Digital Cultures and Media* at [**Newcastle University**](https://www.ncl.ac.uk)
 ## Pronouns
 she/her
 ## What do I do?
