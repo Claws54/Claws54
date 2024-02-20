@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hello 👋
+## About me
+This is the github account of Charlotte Lawson. I am a student of *Digital Cultures and Media* at **Newcastle University**.
+## Pronouns
+she/her
+## What do I do?
+who knows
+## I'm currently learning about...
+github, Visual Studio Code, community action projects, and smart city planning.
+### Ask me about...
+The best places in Newcastle for cheese scones 😊
 
 <!--
 **Claws54/Claws54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
